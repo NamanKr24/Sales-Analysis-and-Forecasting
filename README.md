@@ -1,7 +1,5 @@
 # Sales Analysis and Forecasting
 
-# Sales Analysis & Forecasting
-
 ## 📊 Project Overview
 This project focuses on analyzing historical sales data and forecasting future trends for the "Office Supplies" category. Leveraging time series analysis techniques, including ARIMA and Prophet models, the project aims to uncover sales patterns and predict future performance to support data-driven business decisions.
 
