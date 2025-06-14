@@ -91,6 +91,8 @@ By blending exploratory analysis with statistical forecasting models like **ARIM
 
 - Evaluation focused on visual fit and residuals; metric-based scoring can be added in future iterations.
 
+![Sample Plot](Plots/plot_4.png)
+
 ## 🤝 Contributing
 Contributions are welcome!
 
